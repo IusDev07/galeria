@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(172, 190, 184);
+}
+.encabezado{
+    text-align: center;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.galeria img{
+    width: 300px;
+}
